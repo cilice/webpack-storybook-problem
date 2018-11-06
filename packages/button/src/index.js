@@ -1,9 +1,11 @@
 import * as React from 'react';
-import colors from '@ivx/colors';
 import styled from 'styled-components';
+import colors from '@ivx/colors';
+
+console.log(colors);
 
 const Styled = styled.button`
-  color: ${colors.white};
+  color: tomato;
 `;
 
 const Button = () => <Styled>test</Styled>;

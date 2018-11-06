@@ -1,7 +1,7 @@
 {
   "name": "@ivx/button",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "./dist/index.js",
   "dependencies": {
     "@ivx/colors": "^1.0.0"
   },
